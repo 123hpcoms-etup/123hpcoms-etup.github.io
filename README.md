@@ -1,4 +1,4 @@
-## 123.hp.com/setup Provides Complete Hp Printer Setup Solution
+# 123.hp.com/setup
 
 [![123.hp.com/setup](Get-Started-Now.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
