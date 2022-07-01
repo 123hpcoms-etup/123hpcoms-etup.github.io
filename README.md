@@ -2,7 +2,7 @@
 
 [![123.hp.com/setup](Get-Started-Now.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-You can get instant help, complete assistance, step-by-step guidance for install setup, driver download, troubleshooting for all HP printers- at **[123.hp.com/setup](https://)**.
+You can get instant help, complete assistance, step-by-step guidance for install setup, driver download, troubleshooting for all HP printers- at **[123.hp.com/setup](https://123hpcoms-etup.github.io)**.
 
 You are just a click away to choose the right service, set up your HP printer with the right guidance, and troubleshooting all the errors. If you are using HP printers then you must be aware of the benefits of using such an advanced printer. HP printers are the all-in-one solution for office use as well as for home use.
 
@@ -10,7 +10,7 @@ For the new users who have bought a new modern HP printer must need the guidance
 
 ## HP Printer Setup Procedure From Start- 123.hp.com/setup
 
-The new users who have bought their printer for the first time should also know- how to set up the printer. While 123.hp.com/setup is a useful page where you will get all the HP Printer related information.
+The new users who have bought their printer for the first time should also know- how to set up the printer. While **[123.hp.com/setup](https://123hpcoms-etup.github.io)** is a useful page where you will get all the HP Printer related information.
 
 1. Bring out your HP printer from the box first.
 2. Be careful with it, then place it on a clean, dry, and flat surface.
@@ -35,13 +35,13 @@ Note: If you are confused and don’t know how to insert the ink cartridges then
 To run your printer and get the prints in your output tray you need to have drivers and software on your computer. As drivers enable the printing and send the printing command to the printer.
 
 1. Switch on your printer and the computer.
-2. Now open the browser and go to 123.hp.com/setup.
+2. Now open the browser and go to **[123.hp.com/setup](https://123hpcoms-etup.github.io)**.
 3. Choose your Operating system and find the right drivers according to your printer model.
 4. Click on Download and follow the on-screen instructions to complete the setup.
 5. After the download process is done you can see it in the download folder.
-6. Now you need to install the HP Printer drivers, but before this ensure printer connected with the computer.
+6. Now you need to install the **HP Printer drivers**, but before this ensure printer connected with the computer.
 7. Open the setup file in the Downloads folder and then Run the setup.
-8. Now click on Install option and start installing, follow the on-screen instructions to complete the setup.
+8. Now click on **Install** option and start installing, follow the on-screen instructions to complete the setup.
 
 ## 123.hp.com/setup Printer Connection
 
